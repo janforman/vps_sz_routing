@@ -1,0 +1,3070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="train">
+ <IconStyle><Icon><href>https://portal.hzspk.cz/icons/szdc.png</href></Icon><scale>2.0</scale></IconStyle>
+</Style><Placemark id="m0">
+<name><![CDATA[EC144]]></name>
+<description>Jede do Praha-Dolní Počernice (úsek 2.23km) v 11:51 <a href='https://www.cd.cz/vlak/144' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.570141,50.08811</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m1">
+<name><![CDATA[R661]]></name>
+<description>Jede do Kralice nad Oslavou (úsek 5.74km) v 11:53 <a href='https://www.cd.cz/vlak/661' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.171878,49.187492</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m2">
+<name><![CDATA[R668]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/668' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.48878,48.974485</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m3">
+<name><![CDATA[R614]]></name>
+<description>Stojí ve stanici v 11:36 <a href='https://www.cd.cz/vlak/614' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.380923,50.074201</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m4">
+<name><![CDATA[RJ1008]]></name>
+<description>Jede do Cerhenice (úsek 3.45km) v 11:54 <a href='https://www.cd.cz/vlak/1008' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.112351,50.070508</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m5">
+<name><![CDATA[AEx1060]]></name>
+<description>Jede do Č.Třebová vhb.č.484 (úsek 0.72km) v 11:52 <a href='https://www.cd.cz/vlak/1060' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.43892,49.90047</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m6">
+<name><![CDATA[R986]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/986' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.435587,50.08293</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m7">
+<name><![CDATA[R890]]></name>
+<description>Jede do Bezpráví (úsek 5.61km) v 11:49 <a href='https://www.cd.cz/vlak/890' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.336637,49.994857</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m8">
+<name><![CDATA[R607]]></name>
+<description>Jede do Horní Počaply (úsek 3.85km) v 11:53 <a href='https://www.cd.cz/vlak/607' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.37706,50.42757</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m9">
+<name><![CDATA[R930]]></name>
+<description>Stojí ve stanici v 11:41 <a href='https://www.cd.cz/vlak/930' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.435587,50.08293</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m10">
+<name><![CDATA[rj75]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/75' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.893065,48.753769</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m11">
+<name><![CDATA[R870]]></name>
+<description>Jede do Praha-Dolní Počernice (úsek 2.23km) v 11:53 <a href='https://www.cd.cz/vlak/870' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.570141,50.08811</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m12">
+<name><![CDATA[Ex560]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/560' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.380923,50.074201</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m13">
+<name><![CDATA[R827]]></name>
+<description>Stojí ve stanici v 11:36 <a href='https://www.cd.cz/vlak/827' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.359506,49.900653</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m14">
+<name><![CDATA[R1272]]></name>
+<description>Jede do Pilínkov (úsek 5.55km) v 11:51 <a href='https://www.cd.cz/vlak/1272' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.040142,50.722319</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m15">
+<name><![CDATA[SC510]]></name>
+<description>Jede do Nová Ves u Kolína (úsek 4km) v 11:54 <a href='https://www.cd.cz/vlak/510' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.190064,50.033883</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m16">
+<name><![CDATA[LE1358]]></name>
+<description>Jede do Žichlínek (úsek 2.52km) v 11:52 <a href='https://www.cd.cz/vlak/1358' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.666501,49.855301</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m17">
+<name><![CDATA[LE1353]]></name>
+<description>Jede do Hulín (úsek 0.58km) v 11:51 <a href='https://www.cd.cz/vlak/1353' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.475542,49.317625</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m18">
+<name><![CDATA[R720]]></name>
+<description>Stojí ve stanici v 11:39 <a href='https://www.cd.cz/vlak/720' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.43975,50.110754</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m19">
+<name><![CDATA[Os6009]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/6009' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.887313,50.40749</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m20">
+<name><![CDATA[R663]]></name>
+<description>Jede do Horní Ves (úsek 4.75km) v 11:47 <a href='https://www.cd.cz/vlak/663' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.308334,49.287805</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m21">
+<name><![CDATA[R907]]></name>
+<description>Stojí ve stanici v 11:48 <a href='https://www.cd.cz/vlak/907' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.983212,49.961775</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m22">
+<name><![CDATA[EC280]]></name>
+<description>Jede do Chvaletice (úsek 4.33km) v 11:53 <a href='https://www.cd.cz/vlak/280' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.456243,50.030396</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m23">
+<name><![CDATA[R709]]></name>
+<description>Jede do Hluboká nad Vltavou-Zámostí (úsek 3.98km) v 11:54 <a href='https://www.cd.cz/vlak/709' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.491319,49.048185</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m24">
+<name><![CDATA[RJ1046]]></name>
+<description>Jede do Kostěnice (úsek 3.61km) v 11:52 <a href='https://www.cd.cz/vlak/1046' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.912469,50.009688</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m25">
+<name><![CDATA[R666]]></name>
+<description>Jede do Švábov (úsek 3.45km) v 11:53 <a href='https://www.cd.cz/vlak/666' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.364098,49.316053</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m26">
+<name><![CDATA[R612]]></name>
+<description>Jede do Chomutov (úsek 1.82km) v 11:53 <a href='https://www.cd.cz/vlak/612' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.403155,50.458363</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m27">
+<name><![CDATA[R1165]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/1165' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.045726,50.761431</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m28">
+<name><![CDATA[Os5507]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/5507' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.81039,50.214596</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m29">
+<name><![CDATA[Os6910]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/6910' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.044163,50.659245</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m30">
+<name><![CDATA[IC505]]></name>
+<description>Jede do Rokytnice u Přerova (úsek 3.45km) v 11:54 <a href='https://www.cd.cz/vlak/505' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.360793,49.468068</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m31">
+<name><![CDATA[R1108]]></name>
+<description>Jede do km 47.300 (úsek 0.29km) v 11:47 <a href='https://www.cd.cz/vlak/1108' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.531837,50.693728</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m32">
+<name><![CDATA[Os6104]]></name>
+<description>Stojí ve stanici v 11:49 <a href='https://www.cd.cz/vlak/6104' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.691744,50.360542</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m33">
+<name><![CDATA[Os8104]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/8104' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.48878,48.974485</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m34">
+<name><![CDATA[RJ1005]]></name>
+<description>Jede do Červenka (úsek 9.6km) v 11:50 <a href='https://www.cd.cz/vlak/1005' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.996692,49.750747</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m35">
+<name><![CDATA[R865]]></name>
+<description>Jede do Les odbočka (úsek 4.28km) v 11:51 <a href='https://www.cd.cz/vlak/865' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.477482,49.869072</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m36">
+<name><![CDATA[EC104]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/104' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.359506,49.900653</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m37">
+<name><![CDATA[R979]]></name>
+<description>Jede do Sázavka (úsek 3.8km) v 11:41 <a href='https://www.cd.cz/vlak/979' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.396636,49.73406</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m38">
+<name><![CDATA[R718]]></name>
+<description>Jede do Tomice (úsek 1.98km) v 11:46 <a href='https://www.cd.cz/vlak/718' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.650342,49.697875</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m39">
+<name><![CDATA[rj72]]></name>
+<description>Jede do Dlouhá Třebová (úsek 1.74km) v 11:53 <a href='https://www.cd.cz/vlak/72' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.424195,49.932487</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m40">
+<name><![CDATA[R1267]]></name>
+<description>Jede do Dvůr Králové nad Labem (úsek 6.43km) v 11:54 <a href='https://www.cd.cz/vlak/1267' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.748206,50.436544</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m41">
+<name><![CDATA[Os6409]]></name>
+<description>Stojí ve stanici v 11:36 <a href='https://www.cd.cz/vlak/6409' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.842319,50.195703</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m42">
+<name><![CDATA[Os6911]]></name>
+<description>Jede do Libčice nad Vltavou-Letky (úsek 1.4km) v 11:49 <a href='https://www.cd.cz/vlak/6911' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.373543,50.191408</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m43">
+<name><![CDATA[Os5506]]></name>
+<description>Jede do Libuň zastávka (úsek 1.34km) v 11:52 <a href='https://www.cd.cz/vlak/5506' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.302171,50.499755</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m44">
+<name><![CDATA[Os28311]]></name>
+<description>Stojí ve stanici v 11:46 <a href='https://www.cd.cz/vlak/28311' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.464521,49.182623</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m45">
+<name><![CDATA[R925]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/925' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.81039,50.214596</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m46">
+<name><![CDATA[Os5008]]></name>
+<description>Stojí ve stanici v 11:49 <a href='https://www.cd.cz/vlak/5008' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.573969,50.039865</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m47">
+<name><![CDATA[LE1355]]></name>
+<description>Jede do Tatenice (úsek 1.31km) v 11:51 <a href='https://www.cd.cz/vlak/1355' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.708542,49.858619</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m48">
+<name><![CDATA[Sp1614]]></name>
+<description>Stojí ve stanici v 11:43 <a href='https://www.cd.cz/vlak/1614' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.909244,49.934242</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m49">
+<name><![CDATA[Os5905]]></name>
+<description>Stojí ve stanici v 11:36 <a href='https://www.cd.cz/vlak/5905' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.58792,49.598602</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m50">
+<name><![CDATA[EC116]]></name>
+<description>Jede do Zábřeh na Moravě (úsek 5.85km) v 11:53 <a href='https://www.cd.cz/vlak/116' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.918211,49.839199</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m51">
+<name><![CDATA[Os18007]]></name>
+<description>Stojí ve stanici v 11:48 <a href='https://www.cd.cz/vlak/18007' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.061289,49.08126</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m52">
+<name><![CDATA[R910]]></name>
+<description>Jede do Kojetín (úsek 0.52km) v 11:53 <a href='https://www.cd.cz/vlak/910' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.304864,49.345407</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m53">
+<name><![CDATA[Os6408]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/6408' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.02982,50.658144</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m54">
+<name><![CDATA[Os8354]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/8354' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.58792,49.598602</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m55">
+<name><![CDATA[Os7055]]></name>
+<description>Stojí ve stanici v 11:47 <a href='https://www.cd.cz/vlak/7055' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.658103,50.511591</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m56">
+<name><![CDATA[Os2933]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/2933' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.751307,49.524203</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m57">
+<name><![CDATA[R838]]></name>
+<description>Jede do Kojetín (úsek 4.86km) v 11:53 <a href='https://www.cd.cz/vlak/838' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.33222,49.353593</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m58">
+<name><![CDATA[Sp1808]]></name>
+<description>Jede do Šárovcova Lhota (úsek 3.1km) v 11:50 <a href='https://www.cd.cz/vlak/1808' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.562847,50.40803</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m59">
+<name><![CDATA[Ex555]]></name>
+<description>Stojí ve stanici v 11:37 <a href='https://www.cd.cz/vlak/555' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.435587,50.08293</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m60">
+<name><![CDATA[Os6805]]></name>
+<description>Jede do Ústí n.L.záp.vněj.n. (úsek 0.89km) v 11:55 <a href='https://www.cd.cz/vlak/6805' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.012397,50.656136</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m61">
+<name><![CDATA[Os3719]]></name>
+<description>Jede do Kraličky (úsek 2.05km) v 11:51 <a href='https://www.cd.cz/vlak/3719' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.180974,49.486409</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m62">
+<name><![CDATA[Os3229]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/3229' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.993501,49.335556</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m63">
+<name><![CDATA[Os4615]]></name>
+<description>Jede do Pouzdřany (úsek 3.1km) v 11:45 <a href='https://www.cd.cz/vlak/4615' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.624151,48.947217</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m64">
+<name><![CDATA[R609]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/609' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.196206,50.385165</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m65">
+<name><![CDATA[Os6824]]></name>
+<description>Jede do Most (úsek 3.97km) v 11:53 <a href='https://www.cd.cz/vlak/6824' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.69062,50.508129</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m66">
+<name><![CDATA[R984]]></name>
+<description>Jede do vl.v km 114.486 (úsek 3.33km) v 11:51 <a href='https://www.cd.cz/vlak/984' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.618504,49.612301</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m67">
+<name><![CDATA[R1170]]></name>
+<description>Jede do Žandov (úsek 1.05km) v 11:52 <a href='https://www.cd.cz/vlak/1170' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.390649,50.711728</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m68">
+<name><![CDATA[Os9814]]></name>
+<description>Jede do Kladno-Vrapice (úsek 1.7km) v 11:43 <a href='https://www.cd.cz/vlak/9814' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.153499,50.166263</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m69">
+<name><![CDATA[R1084]]></name>
+<description>Jede do Žatec západ (úsek 5.58km) v 11:50 <a href='https://www.cd.cz/vlak/1084' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.517812,50.330914</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m70">
+<name><![CDATA[Os8145]]></name>
+<description>Jede do Polečnice (úsek 2.09km) v 11:54 <a href='https://www.cd.cz/vlak/8145' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.135219,48.79773</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m71">
+<name><![CDATA[Os8910]]></name>
+<description>Jede do Plzeň hl.n.st.4 (úsek 1.85km) v 11:52 <a href='https://www.cd.cz/vlak/8910' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.406983,49.735305</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m72">
+<name><![CDATA[Os4907]]></name>
+<description>Jede do Km 6.370 (úsek 2.12km) v 11:54 <a href='https://www.cd.cz/vlak/4907' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.604125,49.226734</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m73">
+<name><![CDATA[Os7415]]></name>
+<description>Stojí ve stanici v 11:44 <a href='https://www.cd.cz/vlak/7415' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.388064,49.743659</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m74">
+<name><![CDATA[Os7907]]></name>
+<description>Jede do Ostrov u Tochovic (úsek 3.44km) v 11:49 <a href='https://www.cd.cz/vlak/7907' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.008559,49.614695</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m75">
+<name><![CDATA[Os6654]]></name>
+<description>Jede do Rumburk (úsek 5.85km) v 11:43 <a href='https://www.cd.cz/vlak/6654' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.537591,50.954328</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m76">
+<name><![CDATA[Os8009]]></name>
+<description>Stojí ve stanici v 11:55 <a href='https://www.cd.cz/vlak/8009' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.48878,48.974485</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m77">
+<name><![CDATA[Ex557]]></name>
+<description>Jede do Plzeň-Zadní Skvrňany (úsek 1.7km) v 11:54 <a href='https://www.cd.cz/vlak/557' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.322375,49.748544</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m78">
+<name><![CDATA[Os7807]]></name>
+<description>Jede do Králův Dvůr-Popovice (úsek 3.62km) v 11:42 <a href='https://www.cd.cz/vlak/7807' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.015223,49.923707</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m79">
+<name><![CDATA[Os2708]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/2708' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.121586,48.856114</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m80">
+<name><![CDATA[R807]]></name>
+<description>Jede do Moravský Písek zastávka (úsek 1.8km) v 11:54 <a href='https://www.cd.cz/vlak/807' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.329473,48.990703</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m81">
+<name><![CDATA[Os9707]]></name>
+<description>Jede do Kamenný Most u Kralup nad Vltavou (úsek 1.83km) v 11:50 <a href='https://www.cd.cz/vlak/9707' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.203388,50.239053</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m82">
+<name><![CDATA[Os18406]]></name>
+<description>Jede do Pořín (úsek 6.69km) v 11:48 <a href='https://www.cd.cz/vlak/18406' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.898482,49.427171</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m83">
+<name><![CDATA[R889]]></name>
+<description>Jede do Lhota pod Přeloučí (úsek 3.42km) v 11:49 <a href='https://www.cd.cz/vlak/889' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.523065,50.035808</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m84">
+<name><![CDATA[R928]]></name>
+<description>Jede do Smiřice zastávka (úsek 1.19km) v 11:54 <a href='https://www.cd.cz/vlak/928' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.848069,50.294144</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m85">
+<name><![CDATA[Os9509]]></name>
+<description>Jede do Hovorčovice (úsek 3.19km) v 11:49 <a href='https://www.cd.cz/vlak/9509' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.528408,50.183545</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m86">
+<name><![CDATA[Os9010]]></name>
+<description>Jede do Praha-Vršovice st.2 (úsek 4.28km) v 11:52 <a href='https://www.cd.cz/vlak/9010' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.462672,50.042108</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m87">
+<name><![CDATA[Os6607]]></name>
+<description>Jede do Božíkov (úsek 1.19km) v 11:49 <a href='https://www.cd.cz/vlak/6607' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.648321,50.679775</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m88">
+<name><![CDATA[SC512]]></name>
+<description>Jede do Klabava (úsek 4.07km) v 11:51 <a href='https://www.cd.cz/vlak/512' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.562115,49.745609</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m89">
+<name><![CDATA[Ex128]]></name>
+<description>Jede do Lipník nad Bečvou (úsek 8.28km) v 11:52 <a href='https://www.cd.cz/vlak/128' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.643251,49.539783</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m90">
+<name><![CDATA[Os4112]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/4112' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.613552,49.190848</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m91">
+<name><![CDATA[Os4828]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/4828' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.147596,49.206992</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m92">
+<name><![CDATA[Os7007]]></name>
+<description>Jede do Sokolov-PDV RAILWAY (úsek 1.18km) v 11:53 <a href='https://www.cd.cz/vlak/7007' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.643267,50.185988</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m93">
+<name><![CDATA[Sp1748]]></name>
+<description>Jede do Ruprechtice (úsek 1.78km) v 11:45 <a href='https://www.cd.cz/vlak/1748' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.267942,50.624845</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m94">
+<name><![CDATA[Os3413]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/3413' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.412013,49.791618</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m95">
+<name><![CDATA[Os3131]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/3131' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.291628,49.790111</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m96">
+<name><![CDATA[R761]]></name>
+<description>Jede do Všenory (úsek 1.36km) v 11:46 <a href='https://www.cd.cz/vlak/761' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.303738,49.932314</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m97">
+<name><![CDATA[R787]]></name>
+<description>Jede do Stará Boleslav (úsek 5.39km) v 11:53 <a href='https://www.cd.cz/vlak/787' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.676298,50.219095</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m98">
+<name><![CDATA[Os3416]]></name>
+<description>Jede do Děhylov (úsek 4.71km) v 11:54 <a href='https://www.cd.cz/vlak/3416' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.195386,49.844933</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m99">
+<name><![CDATA[Os9528]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/9528' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.492574,50.353087</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m100">
+<name><![CDATA[Os3104]]></name>
+<description>Jede do Čeladná (úsek 4.55km) v 11:47 <a href='https://www.cd.cz/vlak/3104' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.336038,49.554014</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m101">
+<name><![CDATA[Os19908]]></name>
+<description>Stojí ve stanici v 11:36 <a href='https://www.cd.cz/vlak/19908' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.075869,49.957075</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m102">
+<name><![CDATA[Os8833]]></name>
+<description>Stojí ve stanici v 11:48 <a href='https://www.cd.cz/vlak/8833' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.435587,50.08293</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m103">
+<name><![CDATA[Os8221]]></name>
+<description>Stojí ve stanici v 11:36 <a href='https://www.cd.cz/vlak/8221' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.48878,48.974485</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m104">
+<name><![CDATA[Os4926]]></name>
+<description>Jede do Čebín (úsek 6.38km) v 11:48 <a href='https://www.cd.cz/vlak/4926' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.486311,49.309023</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m105">
+<name><![CDATA[Os14018]]></name>
+<description>Stojí ve stanici v 11:44 <a href='https://www.cd.cz/vlak/14018' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.278327,49.592625</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m106">
+<name><![CDATA[R868]]></name>
+<description>Jede do Březová nad Svitavou-Dlouhá (úsek 2.68km) v 11:46 <a href='https://www.cd.cz/vlak/868' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.513661,49.653431</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m107">
+<name><![CDATA[Os19704]]></name>
+<description>Stojí ve stanici v 11:41 <a href='https://www.cd.cz/vlak/19704' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.736241,50.099297</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m108">
+<name><![CDATA[Os5821]]></name>
+<description>Jede do Kamenné Zboží (úsek 2.96km) v 11:42 <a href='https://www.cd.cz/vlak/5821' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.999242,50.188297</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m109">
+<name><![CDATA[Os3517]]></name>
+<description>Stojí ve stanici v 11:37 <a href='https://www.cd.cz/vlak/3517' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.683323,50.088606</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m110">
+<name><![CDATA[Os4428]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/4428' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.356048,48.987956</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m111">
+<name><![CDATA[Os24711]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/24711' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.129658,49.4728</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m112">
+<name><![CDATA[Os5908]]></name>
+<description>Jede do Horky u Čáslavi (úsek 4.6km) v 11:49 <a href='https://www.cd.cz/vlak/5908' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.449122,49.860418</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m113">
+<name><![CDATA[R829]]></name>
+<description>Jede do Chvalkovice na Hané (úsek 2.5km) v 11:48 <a href='https://www.cd.cz/vlak/829' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.107558,49.318297</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m114">
+<name><![CDATA[Os3802]]></name>
+<description>Jede do km 0.047=0.000 (úsek 4.16km) v 11:50 <a href='https://www.cd.cz/vlak/3802' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.473116,48.931824</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m115">
+<name><![CDATA[Os7711]]></name>
+<description>Jede do Chlum u Rakovníka (úsek 2.27km) v 11:49 <a href='https://www.cd.cz/vlak/7711' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.779783,50.075004</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m116">
+<name><![CDATA[Os4719]]></name>
+<description>Jede do Babice nad Svitavou (úsek 2.5km) v 11:44 <a href='https://www.cd.cz/vlak/4719' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.67463,49.278424</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m117">
+<name><![CDATA[Os4931]]></name>
+<description>Jede do Popovice u Rajhradu (úsek 3.33km) v 11:46 <a href='https://www.cd.cz/vlak/4931' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.6057,49.106098</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m118">
+<name><![CDATA[Os6710]]></name>
+<description>Jede do Solopysky (úsek 4.78km) v 11:39 <a href='https://www.cd.cz/vlak/6710' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.744496,50.244312</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m119">
+<name><![CDATA[Os8271]]></name>
+<description>Jede do Tábor (úsek 8.41km) v 11:51 <a href='https://www.cd.cz/vlak/8271' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.690539,49.441741</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m120">
+<name><![CDATA[Os4714]]></name>
+<description>Jede do Svitávka (úsek 2.35km) v 11:50 <a href='https://www.cd.cz/vlak/4714' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.599819,49.499138</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m121">
+<name><![CDATA[Os8830]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/8830' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.075869,49.957075</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m122">
+<name><![CDATA[Os5604]]></name>
+<description>Jede do Hradec Králové zastávka (úsek 1.26km) v 11:49 <a href='https://www.cd.cz/vlak/5604' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.841512,50.222445</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m123">
+<name><![CDATA[Sp1708]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/1708' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.989271,50.099076</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m124">
+<name><![CDATA[Os6707]]></name>
+<description>Jede do Jimlín (úsek 2.3km) v 11:51 <a href='https://www.cd.cz/vlak/6707' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.75294,50.330118</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m125">
+<name><![CDATA[Os6606]]></name>
+<description>Jede do Lvová (úsek 3.33km) v 11:48 <a href='https://www.cd.cz/vlak/6606' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.792554,50.782379</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m126">
+<name><![CDATA[Os9325]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/9325' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.027666,50.089701</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m127">
+<name><![CDATA[Os5128]]></name>
+<description>Jede do Očelice (úsek 3.13km) v 11:50 <a href='https://www.cd.cz/vlak/5128' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.063367,50.241708</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m128">
+<name><![CDATA[Os7276]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/7276' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.244625,49.762392</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m129">
+<name><![CDATA[Sp1613]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/1613' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.524394,49.792866</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m130">
+<name><![CDATA[Os2158]]></name>
+<description>Stojí ve stanici v 11:47 <a href='https://www.cd.cz/vlak/2158' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.48878,48.974485</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m131">
+<name><![CDATA[Os14250]]></name>
+<description>Stojí ve stanici v 11:45 <a href='https://www.cd.cz/vlak/14250' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.402729,49.302314</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m132">
+<name><![CDATA[Os3502]]></name>
+<description>Jede do Lomnice u Rýmařova (úsek 7.04km) v 11:43 <a href='https://www.cd.cz/vlak/3502' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.422934,49.879436</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m133">
+<name><![CDATA[Os6947]]></name>
+<description>Jede do Roudnice nad Labem (úsek 4.82km) v 11:51 <a href='https://www.cd.cz/vlak/6947' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.240672,50.434732</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m134">
+<name><![CDATA[Os2533]]></name>
+<description>Jede do Čtyřkoly (úsek 3.52km) v 11:50 <a href='https://www.cd.cz/vlak/2533' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.717164,49.874253</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m135">
+<name><![CDATA[Os4309]]></name>
+<description>Jede do Pitín zastávka (úsek 2.71km) v 11:39 <a href='https://www.cd.cz/vlak/4309' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.836797,49.037381</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m136">
+<name><![CDATA[Sp1753]]></name>
+<description>Jede do Velké Poříčí (úsek 1.08km) v 11:51 <a href='https://www.cd.cz/vlak/1753' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.181123,50.465235</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m137">
+<name><![CDATA[Os4783]]></name>
+<description>Stojí ve stanici v 11:39 <a href='https://www.cd.cz/vlak/4783' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.520187,49.633518</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m138">
+<name><![CDATA[Os9628]]></name>
+<description>Stojí ve stanici v 11:45 <a href='https://www.cd.cz/vlak/9628' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.314091,50.2385</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m139">
+<name><![CDATA[Os17134]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/17134' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.719445,50.357119</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m140">
+<name><![CDATA[Os6106]]></name>
+<description>Jede do Lovosice závod (úsek 2.29km) v 11:54 <a href='https://www.cd.cz/vlak/6106' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.082131,50.520508</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m141">
+<name><![CDATA[Os1845]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/1845' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.757622,50.031733</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m142">
+<name><![CDATA[Sp1876]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/1876' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.086945,50.147622</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m143">
+<name><![CDATA[R654]]></name>
+<description>Jede do Srby (úsek 3.34km) v 11:51 <a href='https://www.cd.cz/vlak/654' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.593555,49.520901</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m144">
+<name><![CDATA[Os3908]]></name>
+<description>Jede do Osíčko (úsek 2.6km) v 11:46 <a href='https://www.cd.cz/vlak/3908' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.717752,49.412199</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m145">
+<name><![CDATA[Os8947]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/8947' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.57407,49.550714</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m146">
+<name><![CDATA[Os14021]]></name>
+<description>Jede do Senice na Hané (úsek 4.05km) v 11:51 <a href='https://www.cd.cz/vlak/14021' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.117938,49.629519</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m147">
+<name><![CDATA[Os5581]]></name>
+<description>Jede do Břevnice (úsek 4.91km) v 11:43 <a href='https://www.cd.cz/vlak/5581' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.61313,49.637803</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m148">
+<name><![CDATA[Os4427]]></name>
+<description>Jede do Střelice dolní (úsek 1.63km) v 11:46 <a href='https://www.cd.cz/vlak/4427' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.504861,49.156369</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m149">
+<name><![CDATA[R1125]]></name>
+<description>Jede do Jilešovice (úsek 3.49km) v 11:54 <a href='https://www.cd.cz/vlak/1125' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.1361,49.900053</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m150">
+<name><![CDATA[Os13264]]></name>
+<description>Jede do Janová (úsek 2.89km) v 11:49 <a href='https://www.cd.cz/vlak/13264' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.021171,49.307842</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m151">
+<name><![CDATA[Os5524]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/5524' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.544693,50.369088</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m152">
+<name><![CDATA[R1087]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/1087' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.555445,50.336608</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m153">
+<name><![CDATA[Sp1951]]></name>
+<description>Jede do Záměl (úsek 2.92km) v 11:51 <a href='https://www.cd.cz/vlak/1951' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.293754,50.099851</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m154">
+<name><![CDATA[Os18805]]></name>
+<description>Jede do Pšenice (úsek 4.07km) v 11:50 <a href='https://www.cd.cz/vlak/18805' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.441233,48.672285</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m155">
+<name><![CDATA[Os9007]]></name>
+<description>Stojí ve stanici v 11:55 <a href='https://www.cd.cz/vlak/9007' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.500017,49.878098</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m156">
+<name><![CDATA[Os5320]]></name>
+<description>Jede do Chrudim (úsek 4.25km) v 11:52 <a href='https://www.cd.cz/vlak/5320' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.811457,49.930631</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m157">
+<name><![CDATA[Os15331]]></name>
+<description>Jede do Vendolí zastávka (úsek 2.6km) v 11:43 <a href='https://www.cd.cz/vlak/15331' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.392049,49.736513</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m158">
+<name><![CDATA[R1270]]></name>
+<description>Jede do Jaroměř zastávka (úsek 2.17km) v 11:48 <a href='https://www.cd.cz/vlak/1270' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.911753,50.354829</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m159">
+<name><![CDATA[Os7239]]></name>
+<description>Jede do Trhanov (úsek 2.51km) v 11:42 <a href='https://www.cd.cz/vlak/7239' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.838044,49.421964</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m160">
+<name><![CDATA[Os6044]]></name>
+<description>Jede do Ml.Bol.hl.n.vhb.č.50 (úsek 0.55km) v 11:53 <a href='https://www.cd.cz/vlak/6044' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.894603,50.408266</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m161">
+<name><![CDATA[Sp1676]]></name>
+<description>Jede do Jirkov (úsek 1.59km) v 11:52 <a href='https://www.cd.cz/vlak/1676' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.448877,50.489735</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m162">
+<name><![CDATA[Os15810]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/15810' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.045968,50.193431</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m163">
+<name><![CDATA[Os4511]]></name>
+<description>Jede do Dobré Pole (úsek 2.62km) v 11:48 <a href='https://www.cd.cz/vlak/4511' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.519029,48.825221</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m164">
+<name><![CDATA[Os6011]]></name>
+<description>Jede do Staré Splavy (úsek 3.79km) v 11:52 <a href='https://www.cd.cz/vlak/6011' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.627699,50.595049</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m165">
+<name><![CDATA[Os17923]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/17923' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.872792,49.431041</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m166">
+<name><![CDATA[Os9627]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/9627' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.434774,50.087837</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m167">
+<name><![CDATA[Os6786]]></name>
+<description>Jede do Most (úsek 3.21km) v 11:50 <a href='https://www.cd.cz/vlak/6786' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.666341,50.507774</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m168">
+<name><![CDATA[Os16934]]></name>
+<description>Jede do Litvínov (úsek 1.55km) v 11:44 <a href='https://www.cd.cz/vlak/16934' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.61772,50.595074</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m169">
+<name><![CDATA[R1245]]></name>
+<description>Jede do Heřmaň (úsek 6.32km) v 11:46 <a href='https://www.cd.cz/vlak/1245' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.150093,49.239895</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m170">
+<name><![CDATA[R888]]></name>
+<description>Jede do Huštěnovice (úsek 5.14km) v 11:50 <a href='https://www.cd.cz/vlak/888' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.460468,49.110746</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m171">
+<name><![CDATA[Sp1662]]></name>
+<description>Stojí ve stanici v 11:43 <a href='https://www.cd.cz/vlak/1662' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.538704,50.248558</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m172">
+<name><![CDATA[Os13614]]></name>
+<description>Jede do Horní Heřmanice (úsek 3.35km) v 11:46 <a href='https://www.cd.cz/vlak/13614' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.111701,50.384666</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m173">
+<name><![CDATA[Os18407]]></name>
+<description>Jede do Šimpach (úsek 1.96km) v 11:50 <a href='https://www.cd.cz/vlak/18407' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.972401,49.436219</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m174">
+<name><![CDATA[R810]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/810' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.422854,49.076365</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m175">
+<name><![CDATA[Os5359]]></name>
+<description>Stojí ve stanici v 11:37 <a href='https://www.cd.cz/vlak/5359' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.825171,49.918913</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m176">
+<name><![CDATA[Os3657]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/3657' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.929513,50.071886</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m177">
+<name><![CDATA[Os7770]]></name>
+<description>Stojí ve stanici v 11:36 <a href='https://www.cd.cz/vlak/7770' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.519605,50.148925</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m178">
+<name><![CDATA[Os9209]]></name>
+<description>Jede do Samopše (úsek 3.03km) v 11:49 <a href='https://www.cd.cz/vlak/9209' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.918807,49.864125</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m179">
+<name><![CDATA[Sp1873]]></name>
+<description>Jede do Dědov (úsek 2.97km) v 11:46 <a href='https://www.cd.cz/vlak/1873' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.184801,50.566448</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m180">
+<name><![CDATA[R1105]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/1105' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.547396,50.760732</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m181">
+<name><![CDATA[Os8307]]></name>
+<description>Jede do Děbolín (úsek 4.11km) v 11:49 <a href='https://www.cd.cz/vlak/8307' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.961149,49.159943</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m182">
+<name><![CDATA[R665]]></name>
+<description>Jede do Nemanice II (úsek 4.48km) v 11:52 <a href='https://www.cd.cz/vlak/665' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.457026,49.019979</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m183">
+<name><![CDATA[Os3632]]></name>
+<description>Jede do Mladějovice (úsek 4.16km) v 11:42 <a href='https://www.cd.cz/vlak/3632' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.229189,49.761582</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m184">
+<name><![CDATA[Ex142]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/142' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.52683,49.855521</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m185">
+<name><![CDATA[Os8412]]></name>
+<description>Jede do Líšnice (úsek 2.76km) v 11:46 <a href='https://www.cd.cz/vlak/8412' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.376336,49.42314</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m186">
+<name><![CDATA[Sp1984]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/1984' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.9116,49.763097</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m187">
+<name><![CDATA[Os7532]]></name>
+<description>Stojí ve stanici v 11:49 <a href='https://www.cd.cz/vlak/7532' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.322578,49.575302</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m188">
+<name><![CDATA[Os4910]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/4910' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.615685,49.182891</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m189">
+<name><![CDATA[Os2739]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/2739' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.382507,48.948766</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m190">
+<name><![CDATA[Os27823]]></name>
+<description>Stojí ve stanici v 11:37 <a href='https://www.cd.cz/vlak/27823' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.591283,49.74044</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m191">
+<name><![CDATA[R909]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/909' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.991574,49.27858</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m192">
+<name><![CDATA[Os28124]]></name>
+<description>Stojí ve stanici v 11:49 <a href='https://www.cd.cz/vlak/28124' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.398514,50.15967</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m193">
+<name><![CDATA[Os24809]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/24809' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.809224,49.057637</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m194">
+<name><![CDATA[Os6105]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/6105' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.059579,50.50979</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m195">
+<name><![CDATA[Os2655]]></name>
+<description>Jede do Lučany nad Nisou (úsek 1.19km) v 11:45 <a href='https://www.cd.cz/vlak/2655' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.231731,50.739866</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m196">
+<name><![CDATA[Os17572]]></name>
+<description>Stojí ve stanici v 11:43 <a href='https://www.cd.cz/vlak/17572' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.54191,49.246848</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m197">
+<name><![CDATA[R1127]]></name>
+<description>Jede do Moravský Beroun (úsek 6.76km) v 11:52 <a href='https://www.cd.cz/vlak/1127' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.425605,49.764144</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m198">
+<name><![CDATA[Os7452]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/7452' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.155247,49.639817</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m199">
+<name><![CDATA[Ex353]]></name>
+<description>Jede do Cerhovice (úsek 4.51km) v 11:48 <a href='https://www.cd.cz/vlak/353' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.833491,49.839362</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m200">
+<name><![CDATA[Os19915]]></name>
+<description>Jede do Jinočany (úsek 1.94km) v 11:51 <a href='https://www.cd.cz/vlak/19915' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.2612,50.029742</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m201">
+<name><![CDATA[Os4338]]></name>
+<description>Jede do Uherský Brod (úsek 3.34km) v 11:50 <a href='https://www.cd.cz/vlak/4338' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.648682,49.02079</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m202">
+<name><![CDATA[Os9328]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/9328' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.866368,50.076784</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m203">
+<name><![CDATA[Os7773]]></name>
+<description>Stojí ve stanici v 11:43 <a href='https://www.cd.cz/vlak/7773' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.434774,50.087837</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m204">
+<name><![CDATA[R711]]></name>
+<description>Jede do Mnichovice (úsek 3.05km) v 11:51 <a href='https://www.cd.cz/vlak/711' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.702515,49.936044</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m205">
+<name><![CDATA[Os4362]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/4362' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.422854,49.076365</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m206">
+<name><![CDATA[Os17908]]></name>
+<description>Jede do Závišín (úsek 4.45km) v 11:40 <a href='https://www.cd.cz/vlak/17908' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.872392,49.482692</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m207">
+<name><![CDATA[Os8712]]></name>
+<description>Jede do Majdalena zastávka (úsek 1.72km) v 11:49 <a href='https://www.cd.cz/vlak/8712' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.858053,48.964306</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m208">
+<name><![CDATA[Os5127]]></name>
+<description>Jede do Bohuslavice nad Metují zastávka (úsek 2.15km) v 11:46 <a href='https://www.cd.cz/vlak/5127' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.080635,50.313936</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m209">
+<name><![CDATA[Os5446]]></name>
+<description>Jede do Lipová u Šluknova (úsek 1.62km) v 11:43 <a href='https://www.cd.cz/vlak/5446' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.361933,50.994756</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m210">
+<name><![CDATA[Os3167]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/3167' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.224445,49.54176</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m211">
+<name><![CDATA[Os8106]]></name>
+<description>Jede do Pěkná (úsek 3.94km) v 11:36 <a href='https://www.cd.cz/vlak/8106' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.906166,48.849989</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m212">
+<name><![CDATA[Os15862]]></name>
+<description>Stojí ve stanici v 11:40 <a href='https://www.cd.cz/vlak/15862' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.922328,50.11128</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m213">
+<name><![CDATA[Os7517]]></name>
+<description>Jede do Dobřany zastávka (úsek 3.15km) v 11:51 <a href='https://www.cd.cz/vlak/7517' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.317774,49.673964</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m214">
+<name><![CDATA[Os9413]]></name>
+<description>Jede do Čelákovice-Jiřina (úsek 1.34km) v 11:51 <a href='https://www.cd.cz/vlak/9413' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.764949,50.167055</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m215">
+<name><![CDATA[R1246]]></name>
+<description>Jede do Nučice zastávka (úsek 1.53km) v 11:53 <a href='https://www.cd.cz/vlak/1246' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.214546,50.015762</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m216">
+<name><![CDATA[Os23132]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/23132' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.132498,49.583037</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m217">
+<name><![CDATA[Os7205]]></name>
+<description>Jede do Tachov zastávka (úsek 3.07km) v 11:43 <a href='https://www.cd.cz/vlak/7205' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.64011,49.795742</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m218">
+<name><![CDATA[Os2935]]></name>
+<description>Jede do Koukolná odbočka (úsek 2.45km) v 11:53 <a href='https://www.cd.cz/vlak/2935' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.479497,49.892999</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m219">
+<name><![CDATA[Os14218]]></name>
+<description>Jede do Zlín střed (úsek 0.42km) v 11:47 <a href='https://www.cd.cz/vlak/14218' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.658522,49.226534</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m220">
+<name><![CDATA[Os8604]]></name>
+<description>Jede do Praha-Dolní Počernice (úsek 2.23km) v 11:45 <a href='https://www.cd.cz/vlak/8604' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.570141,50.08811</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m221">
+<name><![CDATA[Os8832]]></name>
+<description>Jede do Černošice (úsek 4.33km) v 11:44 <a href='https://www.cd.cz/vlak/8832' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.324532,49.964788</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m222">
+<name><![CDATA[Os18106]]></name>
+<description>Jede do vl.v km 11.276 (úsek 0.32km) v 11:44 <a href='https://www.cd.cz/vlak/18106' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.893604,49.167579</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m223">
+<name><![CDATA[Os20314]]></name>
+<description>Stojí ve stanici v 11:44 <a href='https://www.cd.cz/vlak/20314' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.243307,50.282264</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m224">
+<name><![CDATA[Os4014]]></name>
+<description>Jede do Adamov zastávka (úsek 1.3km) v 11:49 <a href='https://www.cd.cz/vlak/4014' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.648936,49.301729</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m225">
+<name><![CDATA[Os5426]]></name>
+<description>Jede do Spálov (úsek 2.68km) v 11:52 <a href='https://www.cd.cz/vlak/5426' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.293945,50.633403</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m226">
+<name><![CDATA[Os9672]]></name>
+<description>Stojí ve stanici v 11:47 <a href='https://www.cd.cz/vlak/9672' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.404812,50.321472</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m227">
+<name><![CDATA[R683]]></name>
+<description>Jede do Litochovice nad Labem (úsek 1.56km) v 11:51 <a href='https://www.cd.cz/vlak/683' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.033307,50.559902</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m228">
+<name><![CDATA[Os26327]]></name>
+<description>Stojí ve stanici v 11:40 <a href='https://www.cd.cz/vlak/26327' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.243949,50.74036</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m229">
+<name><![CDATA[Os19513]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/19513' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.517629,50.262819</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m230">
+<name><![CDATA[Os9567]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/9567' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.922936,50.472255</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m231">
+<name><![CDATA[Os13414]]></name>
+<description>Jede do Dolní Benešov-Zábřeh (úsek 2.6km) v 11:40 <a href='https://www.cd.cz/vlak/13414' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.087042,49.923783</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m232">
+<name><![CDATA[R664]]></name>
+<description>Jede do Vysoké Popovice (úsek 5.48km) v 11:50 <a href='https://www.cd.cz/vlak/664' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.303789,49.182894</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m233">
+<name><![CDATA[Os23317]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/23317' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.06654,49.707447</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m234">
+<name><![CDATA[Os5738]]></name>
+<description>Jede do Hostinné město (úsek 1.35km) v 11:51 <a href='https://www.cd.cz/vlak/5738' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.722353,50.538774</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m235">
+<name><![CDATA[Os17409]]></name>
+<description>Stojí ve stanici v 11:43 <a href='https://www.cd.cz/vlak/17409' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.937676,49.524499</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m236">
+<name><![CDATA[Os14020]]></name>
+<description>Jede do Příkazy (úsek 4.05km) v 11:52 <a href='https://www.cd.cz/vlak/14020' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.121258,49.631243</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m237">
+<name><![CDATA[R790]]></name>
+<description>Jede do Stratov (úsek 3.75km) v 11:54 <a href='https://www.cd.cz/vlak/790' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.943858,50.187214</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m238">
+<name><![CDATA[Os4811]]></name>
+<description>Jede do Bítovčice (úsek 2.07km) v 11:42 <a href='https://www.cd.cz/vlak/4811' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.733289,49.364591</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m239">
+<name><![CDATA[R1167]]></name>
+<description>Jede do Březiny u Děčína (úsek 2.21km) v 11:52 <a href='https://www.cd.cz/vlak/1167' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.241001,50.761755</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m240">
+<name><![CDATA[Os18107]]></name>
+<description>Jede do Bohumilice v Čechách (úsek 5.23km) v 11:47 <a href='https://www.cd.cz/vlak/18107' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.796734,49.088662</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m241">
+<name><![CDATA[Os25012]]></name>
+<description>Stojí ve stanici v 11:48 <a href='https://www.cd.cz/vlak/25012' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.573969,50.039865</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m242">
+<name><![CDATA[Os20559]]></name>
+<description>Jede do Králíky zastávka (úsek 2.04km) v 11:38 <a href='https://www.cd.cz/vlak/20559' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.745941,50.086733</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m243">
+<name><![CDATA[Os13367]]></name>
+<description>Stojí ve stanici v 11:48 <a href='https://www.cd.cz/vlak/13367' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.938545,49.642099</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m244">
+<name><![CDATA[Os6806]]></name>
+<description>Jede do Ústí nad Labem hlavní nádraží (úsek 2.64km) v 11:53 <a href='https://www.cd.cz/vlak/6806' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.055013,50.661647</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m245">
+<name><![CDATA[Os6008]]></name>
+<description>Jede do Bělá pod Bezdězem město (úsek 3.88km) v 11:53 <a href='https://www.cd.cz/vlak/6008' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.821286,50.483379</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m246">
+<name><![CDATA[Os14911]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/14911' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.336129,49.454494</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m247">
+<name><![CDATA[Os6852]]></name>
+<description>Jede do Řetenice (úsek 2.07km) v 11:53 <a href='https://www.cd.cz/vlak/6852' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.814608,50.642494</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m248">
+<name><![CDATA[Os26243]]></name>
+<description>Stojí ve stanici v 11:38 <a href='https://www.cd.cz/vlak/26243' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.317796,50.701486</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m249">
+<name><![CDATA[Os12722]]></name>
+<description>Stojí ve stanici v 11:39 <a href='https://www.cd.cz/vlak/12722' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.572598,49.89246</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m250">
+<name><![CDATA[Os17644]]></name>
+<description>Stojí ve stanici v 11:38 <a href='https://www.cd.cz/vlak/17644' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.27705,50.376406</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m251">
+<name><![CDATA[R610]]></name>
+<description>Jede do Praha-Sedlec (úsek 3.21km) v 11:50 <a href='https://www.cd.cz/vlak/610' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.391351,50.134493</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m252">
+<name><![CDATA[Os16725]]></name>
+<description>Stojí ve stanici v 11:44 <a href='https://www.cd.cz/vlak/16725' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.736241,50.099297</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m253">
+<name><![CDATA[Os7664]]></name>
+<description>Jede do Plasy (úsek 6.1km) v 11:53 <a href='https://www.cd.cz/vlak/7664' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.38601,49.900071</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m254">
+<name><![CDATA[Os14418]]></name>
+<description>Stojí ve stanici v 11:42 <a href='https://www.cd.cz/vlak/14418' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.372806,49.098253</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m255">
+<name><![CDATA[Os24710]]></name>
+<description>Jede do Lutotín (úsek 2.75km) v 11:44 <a href='https://www.cd.cz/vlak/24710' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.032636,49.51812</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m256">
+<name><![CDATA[Os17606]]></name>
+<description>Stojí ve stanici v 11:39 <a href='https://www.cd.cz/vlak/17606' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.196206,50.385165</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m257">
+<name><![CDATA[Os8609]]></name>
+<description>Jede do Praha-Klánovice (úsek 1.68km) v 11:51 <a href='https://www.cd.cz/vlak/8609' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.663784,50.087242</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m258">
+<name><![CDATA[Os6510]]></name>
+<description>Jede do Výškov v Čechách (úsek 2.4km) v 11:53 <a href='https://www.cd.cz/vlak/6510' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.690287,50.382566</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m259">
+<name><![CDATA[Os6236]]></name>
+<description>Jede do Hradec Králové hlavní nádraží (úsek 5.55km) v 11:52 <a href='https://www.cd.cz/vlak/6236' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.796493,50.180153</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m260">
+<name><![CDATA[Sp1616]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/1616' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.280566,49.834876</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m261">
+<name><![CDATA[Os5509]]></name>
+<description>Jede do Borek pod Troskami (úsek 2.12km) v 11:49 <a href='https://www.cd.cz/vlak/5509' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.227535,50.53889</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m262">
+<name><![CDATA[TL20946]]></name>
+<description>Jede do Bílý Kostel nad Nisou (úsek 2.78km) v 11:44 <a href='https://www.cd.cz/vlak/20946' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.921891,50.820158</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m263">
+<name><![CDATA[Os6308]]></name>
+<description>Jede do Oldřichov v Hájích (úsek 3.26km) v 11:47 <a href='https://www.cd.cz/vlak/6308' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.090642,50.854378</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m264">
+<name><![CDATA[Os4114]]></name>
+<description>Jede do Veselí nad Moravou (úsek 3.99km) v 11:49 <a href='https://www.cd.cz/vlak/4114' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.386637,48.951742</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m265">
+<name><![CDATA[TL20915]]></name>
+<description>Stojí ve stanici v 11:46 <a href='https://www.cd.cz/vlak/20915' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.638847,50.903248</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m266">
+<name><![CDATA[Os15159]]></name>
+<description>Stojí ve stanici v 11:37 <a href='https://www.cd.cz/vlak/15159' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.100856,50.411143</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m267">
+<name><![CDATA[Os6153]]></name>
+<description>Stojí ve stanici v 11:45 <a href='https://www.cd.cz/vlak/6153' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.131623,50.54111</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m268">
+<name><![CDATA[Os25625]]></name>
+<description>Stojí ve stanici v 11:41 <a href='https://www.cd.cz/vlak/25625' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.881827,50.22925</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m269">
+<name><![CDATA[Sp1952]]></name>
+<description>Jede do Žamberk (úsek 0.56km) v 11:44 <a href='https://www.cd.cz/vlak/1952' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.450091,50.073808</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m270">
+<name><![CDATA[Os5820]]></name>
+<description>Jede do Nymburk předj.n. (úsek 2.07km) v 11:54 <a href='https://www.cd.cz/vlak/5820' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.078549,50.179373</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m271">
+<name><![CDATA[Os2612]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/2612' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.16088,50.720963</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m272">
+<name><![CDATA[Os9816]]></name>
+<description>Jede do Praha-Dejvice (úsek 3.94km) v 11:52 <a href='https://www.cd.cz/vlak/9816' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.367921,50.095866</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m273">
+<name><![CDATA[Os15652]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/15652' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.300289,50.210697</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m274">
+<name><![CDATA[Os16711]]></name>
+<description>Jede do Poseč (úsek 3.45km) v 11:48 <a href='https://www.cd.cz/vlak/16711' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.928276,50.036036</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m275">
+<name><![CDATA[Os25047]]></name>
+<description>Stojí ve stanici v 11:36 <a href='https://www.cd.cz/vlak/25047' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.787006,49.948247</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m276">
+<name><![CDATA[Os23213]]></name>
+<description>Jede do Návojná (úsek 5.75km) v 11:45 <a href='https://www.cd.cz/vlak/23213' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.043279,49.102912</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m277">
+<name><![CDATA[Os14312]]></name>
+<description>Stojí ve stanici v 11:48 <a href='https://www.cd.cz/vlak/14312' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.685325,49.032846</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m278">
+<name><![CDATA[Os2535]]></name>
+<description>Jede do Praha-Horní Měcholupy (úsek 2.35km) v 11:50 <a href='https://www.cd.cz/vlak/2535' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.56097,50.051067</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m279">
+<name><![CDATA[Os4259]]></name>
+<description>Jede do Hodonín (úsek 5.25km) v 11:51 <a href='https://www.cd.cz/vlak/4259' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.088215,48.840134</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m280">
+<name><![CDATA[Os5410]]></name>
+<description>Jede do Nedvězí (úsek 4.23km) v 11:50 <a href='https://www.cd.cz/vlak/5410' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.373677,50.575592</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m281">
+<name><![CDATA[RJ1032]]></name>
+<description>Jede do Popice (úsek 2.95km) v 11:51 <a href='https://www.cd.cz/vlak/1032' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.680704,48.920473</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m282">
+<name><![CDATA[Os27858]]></name>
+<description>Stojí ve stanici v 11:36 <a href='https://www.cd.cz/vlak/27858' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.51675,49.642604</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m283">
+<name><![CDATA[Os6912]]></name>
+<description>Jede do Praha-Sedlec (úsek 2.44km) v 11:51 <a href='https://www.cd.cz/vlak/6912' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.3954,50.131572</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m284">
+<name><![CDATA[Os5527]]></name>
+<description>Jede do Butoves (úsek 0.42km) v 11:45 <a href='https://www.cd.cz/vlak/5527' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.424997,50.388198</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m285">
+<name><![CDATA[Os8835]]></name>
+<description>Jede do Praha-Velká Chuchle (úsek 2.85km) v 11:54 <a href='https://www.cd.cz/vlak/8835' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.376794,49.995531</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m286">
+<name><![CDATA[Os13309]]></name>
+<description>Jede do Svatoňovice (úsek 5.1km) v 11:38 <a href='https://www.cd.cz/vlak/13309' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.661986,49.793821</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m287">
+<name><![CDATA[Os18063]]></name>
+<description>Stojí ve stanici v 11:45 <a href='https://www.cd.cz/vlak/18063' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.883345,48.907169</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m288">
+<name><![CDATA[Os8306]]></name>
+<description>Jede do Mnich (úsek 2.42km) v 11:53 <a href='https://www.cd.cz/vlak/8306' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.875996,49.173384</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m289">
+<name><![CDATA[Os4210]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/4210' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.475964,49.316718</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m290">
+<name><![CDATA[Os3907]]></name>
+<description>Jede do Krhová (úsek 2.49km) v 11:36 <a href='https://www.cd.cz/vlak/3907' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.982192,49.477832</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m291">
+<name><![CDATA[R667]]></name>
+<description>Jede do Zdemyslice (úsek 4.02km) v 11:52 <a href='https://www.cd.cz/vlak/667' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.516821,49.60716</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m292">
+<name><![CDATA[Os3255]]></name>
+<description>Stojí ve stanici v 11:40 <a href='https://www.cd.cz/vlak/3255' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.100235,49.176203</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m293">
+<name><![CDATA[Os2012]]></name>
+<description>Jede do Stará Huť (úsek 1.18km) v 11:36 <a href='https://www.cd.cz/vlak/2012' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.198174,49.786044</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m294">
+<name><![CDATA[Os3954]]></name>
+<description>Stojí ve stanici v 11:49 <a href='https://www.cd.cz/vlak/3954' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.304796,49.345502</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m295">
+<name><![CDATA[Os3547]]></name>
+<description>Jede do Velká Bystřice zastávka (úsek 1.54km) v 11:47 <a href='https://www.cd.cz/vlak/3547' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.361518,49.596034</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m296">
+<name><![CDATA[Os6337]]></name>
+<description>Jede do Raspenava (úsek 5.24km) v 11:53 <a href='https://www.cd.cz/vlak/6337' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.086996,50.911905</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m297">
+<name><![CDATA[Os25415]]></name>
+<description>Stojí ve stanici v 11:38 <a href='https://www.cd.cz/vlak/25415' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.970674,50.673149</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m298">
+<name><![CDATA[Os9570]]></name>
+<description>Jede do Ml.Bol.hl.n.vhb.č.50 (úsek 0.55km) v 11:52 <a href='https://www.cd.cz/vlak/9570' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.894603,50.408266</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m299">
+<name><![CDATA[Os19414]]></name>
+<description>Jede do Čelákovice zastávka (úsek 2.01km) v 11:38 <a href='https://www.cd.cz/vlak/19414' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.736283,50.159478</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m300">
+<name><![CDATA[Os17509]]></name>
+<description>Jede do vl.v km 56.192 (úsek 2.19km) v 11:37 <a href='https://www.cd.cz/vlak/17509' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.285582,49.391616</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m301">
+<name><![CDATA[Os4341]]></name>
+<description>Jede do Vésky (úsek 2.5km) v 11:50 <a href='https://www.cd.cz/vlak/4341' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.499615,49.042645</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m302">
+<name><![CDATA[Os9207]]></name>
+<description>Jede do Budčice (úsek 1.35km) v 11:49 <a href='https://www.cd.cz/vlak/9207' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.184931,49.724098</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m303">
+<name><![CDATA[Os15046]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/15046' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.155809,49.950551</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m304">
+<name><![CDATA[Os3633]]></name>
+<description>Jede do Štarnov (úsek 2.35km) v 11:49 <a href='https://www.cd.cz/vlak/3633' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.284864,49.684084</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m305">
+<name><![CDATA[Os6511]]></name>
+<description>Jede do Sedlec u Obrnic (úsek 2.4km) v 11:45 <a href='https://www.cd.cz/vlak/6511' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.70876,50.489092</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m306">
+<name><![CDATA[Os20973]]></name>
+<description>Jede do Františkovy Lázně-Aquaforum (úsek 0.9km) v 11:48 <a href='https://www.cd.cz/vlak/20973' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.359073,50.119081</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m307">
+<name><![CDATA[Os8709]]></name>
+<description>Jede do Lužnice (úsek 4.65km) v 11:54 <a href='https://www.cd.cz/vlak/8709' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.72571,49.082754</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m308">
+<name><![CDATA[Os24808]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/24808' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.874332,48.984463</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m309">
+<name><![CDATA[Os18006]]></name>
+<description>Stojí ve stanici v 11:44 <a href='https://www.cd.cz/vlak/18006' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.180121,49.145199</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m310">
+<name><![CDATA[Os2446]]></name>
+<description>Stojí ve stanici v 11:48 <a href='https://www.cd.cz/vlak/2446' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.30118,49.961757</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m311">
+<name><![CDATA[Sp1791]]></name>
+<description>Jede do Bohuslavice nad Úpou (úsek 3.81km) v 11:48 <a href='https://www.cd.cz/vlak/1791' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.978924,50.551061</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m312">
+<name><![CDATA[Sp1707]]></name>
+<description>Jede do Bludov lázně (úsek 2.49km) v 11:48 <a href='https://www.cd.cz/vlak/1707' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.904478,49.938838</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m313">
+<name><![CDATA[Os4622]]></name>
+<description>Jede do Rakvice (úsek 3.95km) v 11:52 <a href='https://www.cd.cz/vlak/4622' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.836002,48.8538</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m314">
+<name><![CDATA[SC507]]></name>
+<description>Jede do Praha-Klánovice (úsek 1.68km) v 11:54 <a href='https://www.cd.cz/vlak/507' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.650774,50.086208</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m315">
+<name><![CDATA[Os16314]]></name>
+<description>Jede do Hejnice (úsek 1.56km) v 11:40 <a href='https://www.cd.cz/vlak/16314' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.186651,50.879012</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m316">
+<name><![CDATA[Os4115]]></name>
+<description>Jede do Vracov (úsek 4.03km) v 11:50 <a href='https://www.cd.cz/vlak/4115' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.204619,48.980447</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m317">
+<name><![CDATA[Os2424]]></name>
+<description>Stojí ve stanici v 11:41 <a href='https://www.cd.cz/vlak/2424' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.189072,49.815719</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m318">
+<name><![CDATA[Os5007]]></name>
+<description>Jede do Týnec nad Labem (úsek 1.02km) v 11:53 <a href='https://www.cd.cz/vlak/5007' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.359335,50.037515</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m319">
+<name><![CDATA[Sp1750]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/1750' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.171199,50.417256</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m320">
+<name><![CDATA[Os8751]]></name>
+<description>Jede do Stříbrné Hory (úsek 1.93km) v 11:49 <a href='https://www.cd.cz/vlak/8751' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.681046,49.597502</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m321">
+<name><![CDATA[Os23143]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/23143' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.132498,49.583037</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m322">
+<name><![CDATA[Os5907]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/5907' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.30118,49.961757</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m323">
+<name><![CDATA[Os20237]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/20237' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.27369,50.157993</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m324">
+<name><![CDATA[Os14114]]></name>
+<description>Jede do Brno-Lesná (úsek 3.16km) v 11:49 <a href='https://www.cd.cz/vlak/14114' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.633088,49.220145</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m325">
+<name><![CDATA[Os3518]]></name>
+<description>Stojí ve stanici v 11:41 <a href='https://www.cd.cz/vlak/3518' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.284383,49.929704</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m326">
+<name><![CDATA[Os15506]]></name>
+<description>Stojí ve stanici v 11:43 <a href='https://www.cd.cz/vlak/15506' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.435274,50.700442</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m327">
+<name><![CDATA[Os27710]]></name>
+<description>Jede do Skuhrov pod Brdy (úsek 2.73km) v 11:52 <a href='https://www.cd.cz/vlak/27710' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.156353,49.89427</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m328">
+<name><![CDATA[Os3364]]></name>
+<description>Jede do Studénka (úsek 7.68km) v 11:51 <a href='https://www.cd.cz/vlak/3364' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.114687,49.735272</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m329">
+<name><![CDATA[Os3242]]></name>
+<description>Jede do Lidečko ves (úsek 2.33km) v 11:48 <a href='https://www.cd.cz/vlak/3242' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.053663,49.206868</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m330">
+<name><![CDATA[Os24125]]></name>
+<description>Stojí ve stanici v 11:49 <a href='https://www.cd.cz/vlak/24125' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.31483,48.97719</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m331">
+<name><![CDATA[Os28123]]></name>
+<description>Jede do Praha-Holešovice (úsek 1.06km) v 11:53 <a href='https://www.cd.cz/vlak/28123' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.43956,50.11074</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m332">
+<name><![CDATA[Os4810]]></name>
+<description>Jede do Brno-Horní Heršpice Státní silnice (úsek 1.22km) v 11:50 <a href='https://www.cd.cz/vlak/4810' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.598612,49.16131</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m333">
+<name><![CDATA[Os4278]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/4278' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.893065,48.753769</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m334">
+<name><![CDATA[Os17247]]></name>
+<description>Stojí ve stanici v 11:44 <a href='https://www.cd.cz/vlak/17247' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.20004,50.209041</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m335">
+<name><![CDATA[Os3520]]></name>
+<description>Jede do vl.v km 109.477 (úsek 2.79km) v 11:51 <a href='https://www.cd.cz/vlak/3520' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.869774,49.95595</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m336">
+<name><![CDATA[Os7104]]></name>
+<description>Jede do Vodná (úsek 2.81km) v 11:47 <a href='https://www.cd.cz/vlak/7104' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.847002,50.101136</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m337">
+<name><![CDATA[Os5445]]></name>
+<description>Stojí ve stanici v 11:47 <a href='https://www.cd.cz/vlak/5445' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.283293,50.98352</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m338">
+<name><![CDATA[Os14508]]></name>
+<description>Jede do Lužice (úsek 5.25km) v 11:46 <a href='https://www.cd.cz/vlak/14508' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.070093,48.83148</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m339">
+<name><![CDATA[Os4928]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/4928' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.591377,49.034421</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m340">
+<name><![CDATA[Os17645]]></name>
+<description>Jede do vl.v km 30.358 (úsek 3.05km) v 11:49 <a href='https://www.cd.cz/vlak/17645' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.267859,50.400546</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m341">
+<name><![CDATA[TL20912]]></name>
+<description>Jede do Dolní Podluží (úsek 2.7km) v 11:49 <a href='https://www.cd.cz/vlak/20912' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.621747,50.890371</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m342">
+<name><![CDATA[Os9416]]></name>
+<description>Jede do Lysá nad Labem (úsek 5.36km) v 11:47 <a href='https://www.cd.cz/vlak/9416' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.854509,50.196279</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m343">
+<name><![CDATA[Os7905]]></name>
+<description>Stojí ve stanici v 11:40 <a href='https://www.cd.cz/vlak/7905' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.075869,49.957075</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m344">
+<name><![CDATA[Os18856]]></name>
+<description>Stojí ve stanici v 11:45 <a href='https://www.cd.cz/vlak/18856' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.243302,48.63387</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m345">
+<name><![CDATA[Os8518]]></name>
+<description>Stojí ve stanici v 11:44 <a href='https://www.cd.cz/vlak/8518' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.640871,50.435805</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m346">
+<name><![CDATA[Os15915]]></name>
+<description>Stojí ve stanici v 11:48 <a href='https://www.cd.cz/vlak/15915' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.576415,49.872107</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m347">
+<name><![CDATA[RJ1007]]></name>
+<description>Jede do Praha-Kyje (úsek 3.13km) v 11:52 <a href='https://www.cd.cz/vlak/1007' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.529104,50.097297</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m348">
+<name><![CDATA[R981]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/981' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.435587,50.08293</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m349">
+<name><![CDATA[Os13118]]></name>
+<description>Jede do Frýdlant nad Ostravicí zastávka (úsek 0.66km) v 11:48 <a href='https://www.cd.cz/vlak/13118' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.360413,49.585238</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m350">
+<name><![CDATA[Os23464]]></name>
+<description>Jede do vl. v km 6.519 (úsek 3.74km) v 11:52 <a href='https://www.cd.cz/vlak/23464' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.888822,49.908465</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m351">
+<name><![CDATA[Os3415]]></name>
+<description>Jede do Štítina (úsek 3.5km) v 11:52 <a href='https://www.cd.cz/vlak/3415' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.987314,49.915538</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m352">
+<name><![CDATA[Os5027]]></name>
+<description>Jede do Pardubice-Pardubičky (úsek 2.19km) v 11:48 <a href='https://www.cd.cz/vlak/5027' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.784723,50.031343</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m353">
+<name><![CDATA[Os13663]]></name>
+<description>Stojí ve stanici v 11:49 <a href='https://www.cd.cz/vlak/13663' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.929513,50.071886</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m354">
+<name><![CDATA[Os9508]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/9508' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.497416,50.11204</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m355">
+<name><![CDATA[Os2865]]></name>
+<description>Jede do Ostrava-Vítkovice (úsek 3.57km) v 11:51 <a href='https://www.cd.cz/vlak/2865' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.24997,49.797675</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m356">
+<name><![CDATA[Os9706]]></name>
+<description>Jede do Kralupy nad Vltavou předměstí (úsek 2.89km) v 11:51 <a href='https://www.cd.cz/vlak/9706' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.29286,50.231726</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m357">
+<name><![CDATA[Os2532]]></name>
+<description>Jede do Světice (úsek 3.31km) v 11:49 <a href='https://www.cd.cz/vlak/2532' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.657358,49.9698</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m358">
+<name><![CDATA[Os14748]]></name>
+<description>Jede do Boskovice (úsek 5.05km) v 11:50 <a href='https://www.cd.cz/vlak/14748' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.640674,49.47359</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m359">
+<name><![CDATA[Os16127]]></name>
+<description>Stojí ve stanici v 11:51 <a href='https://www.cd.cz/vlak/16127' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.059579,50.50979</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m360">
+<name><![CDATA[R632]]></name>
+<description>Jede do Písek (úsek 3.83km) v 11:50 <a href='https://www.cd.cz/vlak/632' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.139662,49.301002</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m361">
+<name><![CDATA[Os5481]]></name>
+<description>Jede do Semily (úsek 6.65km) v 11:50 <a href='https://www.cd.cz/vlak/5481' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.3032,50.628917</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m362">
+<name><![CDATA[Os15863]]></name>
+<description>Jede do Třebestovice (úsek 3.48km) v 11:50 <a href='https://www.cd.cz/vlak/15863' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.948794,50.119638</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m363">
+<name><![CDATA[Os7161]]></name>
+<description>Jede do Dolní Libchavy (úsek 3.04km) v 11:51 <a href='https://www.cd.cz/vlak/7161' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.387686,49.985338</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m364">
+<name><![CDATA[Os12816]]></name>
+<description>Jede do Č.Těšín n.n. (úsek 0.75km) v 11:47 <a href='https://www.cd.cz/vlak/12816' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>18.621595,49.736923</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m365">
+<name><![CDATA[Os27147]]></name>
+<description>Jede do Nové Sedlo u Lokte (úsek 3.3km) v 11:50 <a href='https://www.cd.cz/vlak/27147' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.751198,50.205425</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m366">
+<name><![CDATA[Os3548]]></name>
+<description>Jede do Hrubá Voda zastávka (úsek 1.51km) v 11:50 <a href='https://www.cd.cz/vlak/3548' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>17.424172,49.669033</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m367">
+<name><![CDATA[Os4011]]></name>
+<description>Jede do Dolní Lhota (úsek 2.33km) v 11:50 <a href='https://www.cd.cz/vlak/4011' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.633338,49.389234</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m368">
+<name><![CDATA[Ex358]]></name>
+<description>Stojí ve stanici v 11:50 <a href='https://www.cd.cz/vlak/358' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>12.943082,49.435213</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m369">
+<name><![CDATA[Os6360]]></name>
+<description>Stojí ve stanici v 11:46 <a href='https://www.cd.cz/vlak/6360' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.254421,50.95882</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m370">
+<name><![CDATA[Os25228]]></name>
+<description>Jede do Doudleby nad Orlicí (úsek 2.52km) v 11:54 <a href='https://www.cd.cz/vlak/25228' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.273017,50.107463</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m371">
+<name><![CDATA[Os19833]]></name>
+<description>Stojí ve stanici v 11:52 <a href='https://www.cd.cz/vlak/19833' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.130073,50.163464</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m372">
+<name><![CDATA[Os4721]]></name>
+<description>Jede do Moravská Chrastová (úsek 1.23km) v 11:52 <a href='https://www.cd.cz/vlak/4721' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.524537,49.623703</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m373">
+<name><![CDATA[Os24014]]></name>
+<description>Jede do Zbýšov (úsek 2.02km) v 11:52 <a href='https://www.cd.cz/vlak/24014' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.808795,49.134054</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m374">
+<name><![CDATA[Os14616]]></name>
+<description>Jede do Šakvice (úsek 6.67km) v 11:52 <a href='https://www.cd.cz/vlak/14616' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>16.749286,48.929929</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m375">
+<name><![CDATA[Os8834]]></name>
+<description>Jede do Praha hlavní nádraží (úsek 0.89km) v 11:52 <a href='https://www.cd.cz/vlak/8834' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.437402,50.084997</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m376">
+<name><![CDATA[R763]]></name>
+<description>Jede do Km 50.800 (úsek 1.58km) v 11:51 <a href='https://www.cd.cz/vlak/763' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.28624,49.40924</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m377">
+<name><![CDATA[Os2658]]></name>
+<description>Stojí ve stanici v 11:53 <a href='https://www.cd.cz/vlak/2658' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.393368,50.771557</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m378">
+<name><![CDATA[Os15607]]></name>
+<description>Stojí ve stanici v 11:54 <a href='https://www.cd.cz/vlak/15607' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.300289,50.210697</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m379">
+<name><![CDATA[Os17708]]></name>
+<description>Stojí ve stanici v 11:55 <a href='https://www.cd.cz/vlak/17708' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>13.568972,50.033138</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m380">
+<name><![CDATA[Sp1455]]></name>
+<description>Jede do vl.v km 90.205 (úsek 1.36km) v 11:53 <a href='https://www.cd.cz/vlak/1455' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>15.750383,50.026053</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m381">
+<name><![CDATA[Os19116]]></name>
+<description>Jede do Zdislavice (úsek 3.77km) v 11:53 <a href='https://www.cd.cz/vlak/19116' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.991515,49.704349</coordinates>
+</Point>
+</Placemark>
+<Placemark id="m382">
+<name><![CDATA[Os5823]]></name>
+<description>Jede do Praha Masarykovo nádraží - kolej 101 - 103 (úsek 0.69km) v 11:53 <a href='https://www.cd.cz/vlak/5823' target='_blank'>info</a></description>
+<styleUrl>#train</styleUrl> 
+<Point>
+<coordinates>14.443505,50.088489</coordinates>
+</Point>
+</Placemark>
+</Document></kml>
