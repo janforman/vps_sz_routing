@@ -10,7 +10,6 @@ while($row = $rs->fetchArray()) {
 	$geometry = str_replace('POINT(', '', str_replace(')', '', $geometry[0]));
 	$geometry = explode(' ', $geometry);
 	if($geometry[1]) {
-		//if($geometry[1]) {
 		if($row[5] == 'true') {
 			$content[] = array($geometry[1], $geometry[0], $row[0] . $row[1], "Stojí ve stanici v " . date("H:i", $row[6]). " <a href='https://www.cd.cz/vlak/" . $row[1] . "' target='_blank'>info</a>");
 		} else {
