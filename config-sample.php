@@ -1,3 +1,4 @@
 <?php
 $uid = '';
 $password = '';
+$url = '';
