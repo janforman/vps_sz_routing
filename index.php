@@ -14,8 +14,8 @@ Server poskytuje data v následujících formátech
 <?php echo "Poslední import ze SOAP služby SŽDC: <b>" . date ("d.m.Y H:i:s", filemtime('./szdc-temp.sqlite')); ?></b><br/>
 <?php echo "Export generován: <b>" . date ("d.m.Y H:i:s", filemtime('./trains.csv')); ?></b>
 <h2>Changelog</h2>
+31.05.2023 - Expirace vlaků je nyní 1 hodina a záznamy jsou řazeny dle času události<br/>
 21.06.2019 - Opraven export KML a GeoJSON (souřadnice ve správném pořadí XY)<br/>
-01.06.2019 - Interval pro výmaz vlaků bez odezvy je kratší - 20 minut<br/>
 01.06.2019 - SŽDC preferuje TLS spojení, načítání dat tedy probíhá po https<br/>
 31.01.2019 - bez limitu na dopravce ČD - zobrazujeme vše co SŽDC pošle<br/>
 25.01.2019 - pokud vlak jede po úseku příliš dlouho, zobrazí se fixně na 85% úseku, kde byl naposledy potvrzen. neaktivní záznamy nad 30 minut jsou mazány<br/>
