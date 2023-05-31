@@ -26,7 +26,7 @@ $result = explode('</MessageHeader>', $result);
 $result = explode('<Status>OK</Status>', $result[1]);
 $xml = simplexml_load_string('<document>' . $result[0] . '</document>');
 $db = new SQLite3('szdc-temp.sqlite');
-$maxage = time()- 43200;
+$maxage = time()- 3600;
 //$db->query("DROP TABLE soap;");
 //$db->query('CREATE TABLE soap (Type TEXT,Number INTEGER,TRID TEXT,FPoint INTEGER,LCPoint INTEGER,LCPointArrival TEXT,LCPointTime INTEGER,LPoint INTEGER);');
 $db->query("DELETE FROM soap WHERE LCPointTime < $maxage;");
