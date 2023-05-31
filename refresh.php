@@ -1,6 +1,6 @@
 <?php
 $dbdata = new SQLite3('szdc-temp.sqlite', SQLITE3_OPEN_READONLY);
-$rs = $dbdata->query("SELECT * FROM soap;");
+$rs = $dbdata->query("SELECT * FROM soap ORDER BY LCPointTime desc;");
 $db = new SQLite3('szdc-routing.sqlite', SQLITE3_OPEN_READONLY);
 $db->loadExtension('mod_spatialite.so');
 
