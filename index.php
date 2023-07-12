@@ -14,6 +14,7 @@ Server poskytuje data v následujících formátech
 <?php echo "Poslední import ze SOAP služby SŽDC: <b>" . date ("d.m.Y H:i:s", filemtime('./szdc-temp.sqlite')); ?></b><br/>
 <?php echo "Export generován: <b>" . date ("d.m.Y H:i:s", filemtime('./trains.csv')); ?></b>
 <h2>Changelog</h2>
+12.07.2023 - Upgrade OS na Rocky Linux 8 a libSpatiaLite z https://www.gaia-gis.it/gaia-sins/libspatialite-sources/<br/>
 31.05.2023 - Expirace vlaků je nyní 1 hodina a záznamy jsou řazeny dle času události<br/>
 21.06.2019 - Opraven export KML a GeoJSON (souřadnice ve správném pořadí XY)<br/>
 01.06.2019 - SŽDC preferuje TLS spojení, načítání dat tedy probíhá po https<br/>
