@@ -50,6 +50,8 @@ $db->query("VACUUM;");
 
 foreach($xml->children()as $train) {
 	if($train->Substitution == 'true') continue;
+	if(!$train->LastConfirmedPoint->Real) continue;
+	
 	$upd = $db->query("SELECT Type FROM soap WHERE TRID = '$train->TRID';");
 	if($upd->FetchArray()) {
 		$db->query("UPDATE soap SET LCPoint = '" . substr($train->LastConfirmedPoint->SR70, 2, 6). "', LCPointArrival='" . $train->LastConfirmedPoint->Arrival . "', LCPointTime = '" . strtotime($train->LastConfirmedPoint->Real). "' WHERE TRID = '$train->TRID';");
