@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>SŽ Sledování vlaků 1.1</h1>
+<h1>SŽ Sledování vlaků 1.2</h1>
 Server poskytuje data v následujících formátech
 <a href='/trains.csv'><h2>CSV</h2></a> (text oddělený čárkami - lze načíst ve webové službě)
 <a href='/trains.json'><h2>GeoJSON</h2></a>  (GeoJSON standard - lze načíst v IZS Operátoru)
@@ -14,8 +14,8 @@ Server poskytuje data v následujících formátech
 <h2>Status služby</h2>
 <?php echo "Poslední import ze SOAP služby SŽ: <b>" . date ("d.m.Y H:i:s", filemtime('./szdc-temp.sqlite')); ?></b><br/>
 <?php echo "Export generován: <b>" . date ("d.m.Y H:i:s", filemtime('./trains.csv')); ?></b><br/>
-<?php echo "SAP IZS: <b>" . date ("d.m.Y H:i:s", filemtime('./sap.csv')); ?></b><br/>
 <h2>Changelog</h2>
+22.02.2024 - Update na nový endpoint<br/>
 12.07.2023 - Upgrade OS na Rocky Linux 8 a libSpatiaLite z https://www.gaia-gis.it/gaia-sins/libspatialite-sources/<br/>
 31.05.2023 - Expirace vlaků je nyní 1 hodina a záznamy jsou řazeny dle času události<br/>
 12.08.2019 - Přidány polohy IZS v ČR načítáno one-to-many (jedno čtení na mnoho přístupů)<br/>
