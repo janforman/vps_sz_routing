@@ -52,7 +52,10 @@ while($row = $rs->fetchArray()) {
 				$lat = round($wkt_e[1], 6);
 				$lon = round($wkt_e[0], 6);
 				if($lat != 0 AND $lon != 0)
-					$content[] = array($lat, $lon, $row[0] . $row[1], "Jede do " . $dalsistanice . " (úsek " . round($meters / 1024, 2). "km) v " . date("H:i", $row[6]). " <a href='https://www.cd.cz/vlak/" . $row[1] . "' target='_blank'>info</a>");
+ 				unset($info);
+                                if ($row[0] == 'Os' OR $row[0] == 'R' OR $row[0] == 'IC' OR $row[0] == 'Ec' OR $row[0] == 'Sp') $info = " <a href='https://www.cd.cz/vlak/" . $row[1] . "' target='_blank'>info</a>";
+                                if($lat != 0 AND $lon != 0)
+                                        $content[] = array($lat, $lon, $row[0] . $row[1], "Jede do " . $dalsistanice . " (úsek " . round($meters / 1024, 2). "km) v " . date("H:i", $row[6]) . $info);
 			}
 		}
 	}
