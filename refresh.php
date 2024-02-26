@@ -11,7 +11,9 @@ while($row = $rs->fetchArray()) {
 	$geometry = explode(' ', $geometry);
 	if($geometry[1]) {
 		if($row[5] == 'true') {
-			$content[] = array($geometry[1], $geometry[0], $row[0] . $row[1], "Stojí ve stanici v " . date("H:i", $row[6]). " <a href='https://www.cd.cz/vlak/" . $row[1] . "' target='_blank'>info</a>");
+			unset($info);
+                        if ($row[0] == 'Os' OR $row[0] == 'R' OR $row[0] == 'IC' OR $row[0] == 'EC' OR $row[0] == 'Sp' OR $row[0] == 'Sv') $info = " <a href='https://www.cd.cz/vlak/" . $row[1] . "' target='_blank'>info</a>";
+                        $content[] = array($geometry[1], $geometry[0], $row[0] . $row[1], "Stojí ve stanici v " . date("H:i", $row[6]). $info);
 		} else {
 			$noders = $db->query("SELECT ID FROM nodes WHERE bod_sr70 =  " . $row[4] . " LIMIT 1;");
 			$node = $noders->fetchArray();
@@ -53,7 +55,7 @@ while($row = $rs->fetchArray()) {
 				$lon = round($wkt_e[0], 6);
 				if($lat != 0 AND $lon != 0)
  				unset($info);
-                                if ($row[0] == 'Os' OR $row[0] == 'R' OR $row[0] == 'IC' OR $row[0] == 'Ec' OR $row[0] == 'Sp') $info = " <a href='https://www.cd.cz/vlak/" . $row[1] . "' target='_blank'>info</a>";
+                                if ($row[0] == 'Os' OR $row[0] == 'R' OR $row[0] == 'IC' OR $row[0] == 'EC' OR $row[0] == 'Sp' OR $row[0] == 'Sv') $info = " <a href='https://www.cd.cz/vlak/" . $row[1] . "' target='_blank'>info</a>";
                                 if($lat != 0 AND $lon != 0)
                                         $content[] = array($lat, $lon, $row[0] . $row[1], "Jede do " . $dalsistanice . " (úsek " . round($meters / 1024, 2). "km) v " . date("H:i", $row[6]) . $info);
 			}
